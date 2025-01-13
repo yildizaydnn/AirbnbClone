@@ -15,6 +15,8 @@ This project is a **SwiftUI-based application** designed to showcase detailed in
   - Reserve button with a total cost display.
   - Horizontal scrollable view for bedrooms.
 - **Light/Dark Mode Support:** Ensures a smooth experience in both modes.
+<img width="328" alt="Ekran Resmi 2025-01-14 00 36 03" src="https://github.com/user-attachments/assets/2853673b-db9c-4cc5-80e5-c7b9e1dd18c3" />
+
 
 ## Screenshots
 
