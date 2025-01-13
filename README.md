@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro - 2025-01-14 at 00 26 49](https://github.com/user-attachments/assets/e70400d2-2ad8-4302-9d31-c9b7392dd092)# Listing Detail View App
+
 
 This project is a **SwiftUI-based application** designed to showcase detailed information about property listings, including features, amenities, and location. It also integrates a carousel for listing images and a map view for better user experience.
 
