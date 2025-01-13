@@ -15,20 +15,19 @@ This project is a **SwiftUI-based application** designed to showcase detailed in
   - Reserve button with a total cost display.
   - Horizontal scrollable view for bedrooms.
 - **Light/Dark Mode Support:** Ensures a smooth experience in both modes.
+
 <img width="328" alt="Ekran Resmi 2025-01-14 00 36 03" src="https://github.com/user-attachments/assets/2853673b-db9c-4cc5-80e5-c7b9e1dd18c3" />
 
 
-## Screenshots
+<img width="338" alt="Ekran Resmi 2025-01-14 00 35 58" src="https://github.com/user-attachments/assets/e4648005-4cbe-471f-8014-be51bad18a68" />
+
+<img width="320" alt="Ekran Resmi 2025-01-14 00 35 51" src="https://github.com/user-attachments/assets/5a9e1c93-a04d-4333-932d-6762d7a331c8" />
+
+<img width="332" alt="Ekran Resmi 2025-01-14 00 35 40" src="https://github.com/user-attachments/assets/53a6ddaa-a161-4524-93e1-c7831d2bfce9" />
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2025-01-14 at 00 26 49](https://github.com/user-attachments/assets/590d6884-5fee-4720-a1d2-21497afb1a89)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2025-01-14 at 00 26 52](https://github.com/user-attachments/assets/d04d1063-0aa3-4a17-aaa3-03336ac38f33)
-
-
-
-![simulator_screenshot_295ADD49-4D32-4340-A677-D0F95159980A](https://github.com/user-attachments/assets/65c3a396-3977-4484-a4a4-d4865b555077)
 
 Listing.swift
 Defines the main data structure for property listings:
